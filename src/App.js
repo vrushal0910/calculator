@@ -9,6 +9,11 @@ function App() {
     setInput(prevInput => prevInput + value);
   };
 
+
+
+
+  
+
   // Function to handle clearing the input
   const handleClear = () => {
     setInput("");
